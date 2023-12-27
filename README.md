@@ -7,3 +7,5 @@ CREATE TABLE jsp_image.images (
   name VARCHAR(45) NULL,
   phone BIGINT(10) NULL,
   PRIMARY KEY (id));
+
+Download the code and import maven project in eclipse 
